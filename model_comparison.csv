@@ -1,0 +1,8 @@
+Model,MAE,RMSE,R2
+Random Forest,3.3788,4.6641,0.9154
+Lasso Regression,3.3393,4.6708,0.9151
+XGBoost,3.3393,4.6717,0.9151
+Ridge Regression,3.4452,4.7747,0.9113
+Linear Regression,3.4648,4.7985,0.9104
+Neural Network (MLP),3.9142,5.2443,0.893
+Decision Tree,3.9904,5.7759,0.8702
