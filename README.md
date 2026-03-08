@@ -1,6 +1,9 @@
 # BaristaBench — Coffee Order Price Predictor
 ## MSIS 522 Homework 1 | Foster School of Business | UW
 
+**Student:** Daksha Pareek
+**Instructor:** Prof. Léonard Boussioux
+
 ### Project Overview
 End-to-end data science pipeline predicting coffee order 
 total price from the BaristaBench dataset.
