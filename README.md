@@ -19,4 +19,4 @@ python -m streamlit run app.py
 ```
 
 ### Live App
-[Link to be added after deployment]
+https://barista-bench-9.streamlit.app
